@@ -55,3 +55,12 @@
 3. `gradlew assembleRelease` -> `app/build/outputs/apk/release/app-release.apk`.
 4. Проверка подписи: `apksigner verify --verbose --print-certs app-release.apk`.
 Release и debug подписаны разными ключами: при переходе debug -> release приложение нужно удалить (`adb uninstall app.vinylwatch`; обложки из `files/covers` сохрани через `adb pull`).
+
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/screen1.jpg" width="200">
+  <img src="docs/screenshots/screen2.jpg" width="200">
+  <img src="docs/screenshots/screen3.jpg" width="200">
+  <img src="docs/screenshots/screen4.jpg" width="200">
+</p>

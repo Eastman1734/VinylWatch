@@ -1,0 +1,11 @@
+# сборки и IDE
+/build
+/app/build
+/.gradle
+/.idea
+local.properties
+*.iml
+# подпись — никогда в репозиторий
+keystore.properties
+*.jks
+*.keystore

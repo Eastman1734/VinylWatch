@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Acid-house / rave smiley. Лицо диаметром 66 из 108 — целиком внутри безопасной зоны адаптивной иконки. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- лицо -->
+    <path
+        android:fillColor="#FFE600"
+        android:pathData="M21,54a33,33 0 1,0 66,0a33,33 0 1,0 -66,0z" />
+    <!-- глаза -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M39,44.5a3.5,5.7 0 1,0 7,0a3.5,5.7 0 1,0 -7,0z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M62,44.5a3.5,5.7 0 1,0 7,0a3.5,5.7 0 1,0 -7,0z" />
+    <!-- улыбка -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M36,56C41.5,74 66.5,74 72,56" />
+</vector>

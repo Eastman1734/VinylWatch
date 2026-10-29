@@ -64,3 +64,7 @@ Release и debug подписаны разными ключами: при пер
   <img src="docs/screenshots/screen3.jpg" width="200">
   <img src="docs/screenshots/screen4.jpg" width="200">
 </p>
+
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE): free for noncommercial use. For commercial use, contact the author via GitHub.
